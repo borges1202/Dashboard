@@ -1,0 +1,5 @@
+media de idade,valor minimo,valor maximo,departamento unico,media vendas,media_rh,media_ti,Contagem Funcionários Vendas,Contagem Funcionários RH,Contagem Funcionários TI
+36.29,3000,5200,"Vendas, TI, RH","salario total    3996.666667
+dtype: float64","salario total    4950.0
+dtype: float64","salario total    4620.0
+dtype: float64",3,2,3
